@@ -156,5 +156,15 @@ main {
     background-color: #fa66fa;
 }
 
+footer a{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
 
-
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
