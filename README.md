@@ -1,2 +1,2 @@
-## Projeto Pokedevs - Desenvolvido na semana  do zero ao programador contratado
+## Projeto Pokedevs - Desenvolvido na Semana  do Zero ao Programador Contratado
  
